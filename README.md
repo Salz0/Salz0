@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=salz0.salz0&style=for-the-badge">
+<a>
