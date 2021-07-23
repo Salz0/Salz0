@@ -25,6 +25,22 @@ Here are some ideas to get you started:
   <a href="https://www.markdownguide.org/">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   </a>
+  
+  <a href="https://python.org/">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  
+  <a href="https://www.markdownguide.org/">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  </a>
+  
+  <a href="https://www.markdownguide.org/">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  </a>
+  
+  <a href="https://www.markdownguide.org/">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  </a>
 </p>
 
 
