@@ -54,9 +54,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   </a>
   
-  <a href="https://www.postgresql.org/">
+<!--   <a href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  </a>
+  </a> -->
   
   
 </p>
