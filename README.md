@@ -54,6 +54,41 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   </a>
   
+  <a href="https://github.com/Salz0">
+    <img src="	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+  </a>
+  
+  <a href="https://redis.io/">
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+  </a>
+  
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
+  </a>
+  
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  </a>
+  
+  <a href="https://insomnia.rest/">
+    <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
+  </a>
+  
+  <a href="https://cloud.digitalocean.com/">
+    <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white">
+  </a>
+  
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  </a>
+
+  
+  
+  
 <!--   <a href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   </a> -->
@@ -62,8 +97,20 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 </p>
 
-
+  
+  <a href="https://www.notion.so/">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  </a>
+  
+  <a href="https://medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
 
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=salz0.salz0&style=for-the-badge">
 <a>
+  
+  
+<a href="https://www.buymeacoffee.com/vladbilyk">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+  </a>
