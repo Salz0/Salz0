@@ -85,7 +85,14 @@ Here are some ideas to get you started:
   <a href="https://www.linux.org/">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </a>
-
+  
+  <a href="https://www.notion.so/">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  </a>
+  
+  <a href="https://medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
   
   
   
@@ -98,19 +105,15 @@ Here are some ideas to get you started:
 </p>
 
   
-  <a href="https://www.notion.so/">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  </a>
-  
-  <a href="https://medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-  </a>
+
 
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=salz0.salz0&style=for-the-badge">
 <a>
   
-  
+<p>
 <a href="https://www.buymeacoffee.com/vladbilyk">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
   </a>
+  
+</p>
